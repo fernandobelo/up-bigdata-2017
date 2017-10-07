@@ -17,7 +17,7 @@ rddPalavrasTrim.distinct.toDF("palavras").sort(desc("palavras")).show
 
 ### 3) Faça o mesmo utilizando Spark e SparkSql
 
-```
+```scala
 val rddLinhas = sc.textFile("/user/cloudera/fernando/input")
 rddLinhas.toDF.registerTempTable("linhas")
 
