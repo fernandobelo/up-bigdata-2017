@@ -1,7 +1,6 @@
 # Pós-graduação UP - Big Data - Primeiro Semestre 2017
 
-Aluno: Fernando Dias Belo
-
+Aluno: Fernando Dias Belo\
 Disciplina: HBase
 
 ## Comandos e exemplos da aula de HBase
@@ -159,8 +158,8 @@ end end
 
 ### Modelagem da tabela
 
-Row Id => ESTABELECIMENTO_NOTA (XX_XXX)
-FC => TIPO (NFE/NFS ou CTE)
+Row Id => ESTABELECIMENTO_NOTA (XX_XXX)\
+FC => TIPO (NFE/NFS ou CTE)\
 Colunas => Data, Valor, Cpf
 
 ### Criando tabela
