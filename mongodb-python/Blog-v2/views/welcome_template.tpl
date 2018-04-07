@@ -24,7 +24,9 @@ Welcome {{username}}        <a href="/logout">Logout</a> | <a href="/newpost">Ne
 <li>
 <a href="/newpost">Create a New Post</a>
 </li>
-
+<li>
+<a href="/newcategory">Create a New Category</a>
+</li>
 
 </body>
 
