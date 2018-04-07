@@ -11,7 +11,7 @@
 </head>
 
 <body>
-Ja he usuario? <a href="/login">Login</a><p>
+Ja é usuário? <a href="/login">Login</a><p>
 <h2>Signup</h2>
 <form method="post">
 <table>
